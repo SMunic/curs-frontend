@@ -1,1 +1,3 @@
 # curs-frontend
+
+Buna ziua!
